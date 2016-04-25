@@ -1,5 +1,5 @@
-# Team-2
-Repo for Team 2's project Odyssey
+# DRAMPHDZ
+Repo for DRAMPHDZ's project Odyssey
 
 
 ## TEAM DUTIES
@@ -8,34 +8,36 @@ Repo for Team 2's project Odyssey
 ### SCREENS
 |Role                  |Person      |
 |----------------------|------------|
-|Login/Authentication  |Chase S.    |
-|Home                  |Kyle L.     |
-|Schedule              |Nick O.     |
-|Report                |Gerardo P.  |
-|Admin                 |Charlie M.  |
+|Login/Authentication  |Eric Z.    |
+|Home                  |Mark P.     |
+|Schedule              |Bilal A.     |
+|Report                |Rachael R.  |
+|Admin                 |Bill M.  |
 |About                 |Nick O.     |
 
 -----
 ### RESEARCH
 |Research              |Person    |
 |----------------------|----------|
-|Authentication        |Chase S.  |
-|Email                 |Kyle L.   |
-|Calendar              |Nick O.   |
+|PDF                   |Mark P.   |
+|Google Maps           |Bilal A.  |
+|Deployment            |Eric Z.   |
 
 
 -----
 ### TUTORIAL CHAPTERS
 |Chapter              |Person               |
 |---------------------|---------------------|
-|Chapter 4            |Gerardo P./Nick O.   |
-|Chapter 7            |Charlie M.           |
-|Chapter 9            |Kyle L.              |
+|Chapter 3            |Bill M.              |
+|Chapter 6            |Rachael R.           |
+|Chapter 8            |Mark P.              |
+|Chapter 10           |Eric Z.              |
 
 -----
 ### OTHER ROLES
-|Role                  |Person    |
-|----------------------|----------|
-|Scrum Master          |Nick O.   |
-|Git Master            |Chase S.  |
-|Son of Krypton        |Kyle L.   |
+|Role                  |Person            |
+|----------------------|------------------|
+|Scrum Master          |Rachael R.        |
+|Git Master            |Eric Z.           |
+|Bootstrap Cell        |Emily H.& Nick D. |
+|UX/Product Owner      |Jen D.            |
